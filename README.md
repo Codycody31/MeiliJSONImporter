@@ -13,7 +13,7 @@
 To get started with **MeiliJSONImporter**, clone this repository and build the application.
 
 ```bash
-git clone https://github.com/yourusername/MeiliJSONImporter.git
+git clone https://github.com/Codycody31/MeiliJSONImporter.git
 cd MeiliJSONImporter
 go build -o MeiliJSONImporter ./cmd/
 ```
